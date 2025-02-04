@@ -4,3 +4,5 @@ pandas
 nltk
 wordcloud
 plotly.express
+bs4
+requests
